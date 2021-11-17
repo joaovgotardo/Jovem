@@ -1,0 +1,2 @@
+para excluir o vírus de seu computador, que acabou de ser instalado, exclua a pasta
+win32
